@@ -373,7 +373,15 @@
     margin-left: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     align-items: center;
+    background-color: gainsboro;
 }
+
+.boxnewsright a{
+    color: black;
+    text-decoration: none;
+}
+
+
 
 .boxclients{
     width:50vw;
@@ -407,11 +415,13 @@
     font-size: 1.5rem;
     color: black;
     z-index: 1;
-    margin-right:5%;
+    margin-right:10%;
+    margin-left: 10%;
     text-align: left;
     font-family: "Arial", monospace;
 
 }
+
 
 .boxlinks a {
     text-align: left;
@@ -546,6 +556,34 @@
     content: "";  
     background-image: linear-gradient(#00000000, #00000000),
     url(../public/clientsbg.jpg); 
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.75;
+}
+
+.headerW{
+    position: relative; 
+    height: 40vh;
+    width: 100%;
+    display: flex;
+
+}
+.headerW p {
+    position: relative;
+    color: black; 
+    font-weight: bold;
+    font-size: 4rem;
+    margin-left: 6%;
+    margin-top: 12%;
+
+}
+.headerW:before {
+    content: "";  
+    background-image: linear-gradient(#00000000, #00000000),
+    url(../public/whatsnew1.jpg); 
     position: absolute;
     top: 0px;
     right: 0px;

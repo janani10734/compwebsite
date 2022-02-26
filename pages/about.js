@@ -25,10 +25,6 @@ export default function about() {
                         <a>About Us</a>
                     </Link>
 
-                    <Link href="/whatsnew">
-                        <a>Whats New</a>
-                    </Link>
-
                     <div className={utilStyles.dropdown}>
                         <a className={utilStyles.dropdownBtn}>Our Work</a>
                         <div className={utilStyles.dropdownContent}>
@@ -59,6 +55,15 @@ export default function about() {
               <p>
               GSi GROUP was established in Singapore in September 2013 as an engineering company providing a one-stop engineering solution services to ship management companies. The objective of the organization has been clear right from the beginning – to concentrate on quality rather than quantity.
               </p>
+              <p> <u>Group Of Companies</u></p>
+              <p>
+                <li>GSI MARINE ENGINEERING PTE LTD </li>
+                <li>GSI ENGINEERING PTE LTD</li>
+                <li>GSI ENGINEERING & LOGISTICS PTE LTD</li>
+                <li>PDS MARINE ENGINEERING PTE LTD</li>
+                <li>PDS ENGINEERING PTE LTD</li>
+                <li>PDS MARINE OFFSHORE PTE LTD</li>
+                <li>Affiliate Company: RAPAS ENGINEERING PTE LTD</li></p>
           </div>
       </section>
 

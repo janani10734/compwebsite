@@ -74,11 +74,13 @@ export default function Home() {
 
                 <div className={utilStyles.boxnewsright}>
                 <p className={utilStyles.boxlinksnews}>
-                <ul>
-                    <li>
-                        As of 1st Feb, GSI Marine Engineering has started the process to be inducted into Association of Singapore Marine Industries trade organisation.
-                    </li>
-                </ul>
+                <Link href="./whatsnew">
+                    <a>
+                        
+                        GSI Marine Engineering has started the process to be inducted into Association of Singapore Marine Industries trade organisation.
+                        
+                    </a>
+                    </Link>
                 </p>
                 </div>
                 </div>

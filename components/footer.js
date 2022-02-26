@@ -12,6 +12,12 @@ export default function Footer() {
                     <td width="400px" >
                     <img src="./cred2.jpeg" width = "150px"></img> 
                     </td>
+                    <td width="400px" >
+                    <img src="./cred3.png" width = "150px"></img> 
+                    </td>
+                    <td width="400" >
+                    <img src="./cred4.png" width = "150px"></img> 
+                    </td>
                     <td width="700px">
                         <span className="material-icons">place</span> No.3 Soon Lee Street #04-12 Pioneer Junction, Singapore-627606
                         <br></br>
@@ -22,7 +28,9 @@ export default function Footer() {
                         <br></br>
                         <span className="material-icons">fax</span> 6694 2009
                         <br></br>
-                        <Link href="https://www.linkedin.com/in/gsi-group-8aa46b230/"><span className="material-icons">linkedin</span></Link>
+                        <Link href="https://www.linkedin.com/in/gsi-group-8aa46b230/">
+                            <img src = "./linkedin.png" height="30px"/>
+                        </Link>
                         <br></br>
                     </td>
                 </tr>

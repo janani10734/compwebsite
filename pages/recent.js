@@ -55,10 +55,16 @@ export default function about() {
               <p>
               GSI Group was involved in the construction of the LIZA FPSO Series topsides , taking on scopes of pipe fabrication and installation . Fabrication and installation was done over at Dynamac Yard prior to integration and commissioning over at Keppel Yard. Scopes for GSI Group involved welding of Carbon Steel , Stainless Steel, Duplex & Super Duplex SS and Copper Nickel for fabrication as well as installation on site.
               </p>
+              <p> 
+              <Image src = "/recentpic1.jpg" width="200px" height ="200px"/>
+              <Image src= "/border_right.png" width = "50px" height="200px"></Image>
+              <Image src = "/recentpic2.jpg" width="200px" height ="200px"/>
+              </p>
 
               <p>
               GSI Group was involved in the fabrication and installation of piping systems on the NOV Open Drain System for ONGC FPSO. Our workscopes involves welding of Carbon Steel , Stainless Steel, Duplex Stainless Steel and Copper Nickel for fabrication and installation of the piping systems.
               </p>
+              <Image src = "/recentpic3.jpg" width="200px" height ="200px"/>
           </div>
       </section>
 
