@@ -51,7 +51,7 @@ export default function careers() {
            <section className={utilStyles.header}>
         <p>Careers</p>
         </section>
-        <section className={utilStyles.alternate}>
+        <section className={utilStyles.mainpage}>
           <div className={utilStyles.container}>
               <p>
                   No careers available currently.

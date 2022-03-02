@@ -51,7 +51,7 @@ export default function clients() {
                 <section className={utilStyles.headerC}>
         <p>Clients</p>
         </section>
-                <section className={utilStyles.alternate}>
+                <section className={utilStyles.mainpage}>
        
           <div className={utilStyles.container}>
               

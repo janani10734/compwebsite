@@ -50,7 +50,7 @@ export default function about() {
            <section className={utilStyles.headerR}>
         <p>Recent Assignments</p>
         </section>
-        <section className={utilStyles.alternate}>
+        <section className={utilStyles.mainpage}>
           <div className={utilStyles.container}>
               <p>
               GSI Group was involved in the construction of the LIZA FPSO Series topsides , taking on scopes of pipe fabrication and installation . Fabrication and installation was done over at Dynamac Yard prior to integration and commissioning over at Keppel Yard. Scopes for GSI Group involved welding of Carbon Steel , Stainless Steel, Duplex & Super Duplex SS and Copper Nickel for fabrication as well as installation on site.

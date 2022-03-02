@@ -50,7 +50,7 @@ export default function about() {
            <section className={utilStyles.header}>
         <p>About Us</p>
         </section>
-        <section className={utilStyles.alternate}>
+        <section className={utilStyles.mainpage}>
           <div className={utilStyles.container}>
               <p>
               GSi GROUP was established in Singapore in September 2013 as an engineering company providing a one-stop engineering solution services to ship management companies. The objective of the organization has been clear right from the beginning – to concentrate on quality rather than quantity.

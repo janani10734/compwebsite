@@ -51,7 +51,7 @@ export default function careers() {
            <section className={utilStyles.headerW}>
         <p>What's New!</p>
         </section>
-        <section className={utilStyles.alternate}>
+        <section className={utilStyles.mainpage}>
           <div className={utilStyles.container}>
               <p>
                  As of 1 Feb 2022, GSI's application for Associate Membership has been approved by the ASMI Council at its recent meeting. Its membership with the Association will take effect from 1 March 2022. 

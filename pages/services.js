@@ -53,7 +53,7 @@ export default function services() {
                 <section className={utilStyles.headerS}>
                 <p>Services</p>
                 </section>
-                <section className={utilStyles.alternate}>
+                <section className={utilStyles.mainpage}>
                 <div className={utilStyles.servicemain}>
                     <div classname={utilStyles.serviceleft}>
                     
