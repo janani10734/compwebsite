@@ -255,12 +255,7 @@
     padding: 10px;
 }
 
-.btn:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 7px 0 -2px white, 0 15px 0 -4px #06a783,
-        0 16px 10px -3px #06a783;
-    text-decoration: none;
-}
+
 
 .navBar {
     top: 0;
@@ -317,8 +312,7 @@
 .cover {
     height: 87vh;
     width: 100vw;
-    background-image: linear-gradient(#00000000, #00000000),
-        url(../public/bg.png);
+    background-image: linear-gradient(#00000000, #00000000), url(../public/bg.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -333,8 +327,7 @@
     align-items: left;
     justify-content: space-between;
     flex-direction: column;
-    background-image: linear-gradient(#00000000, #00000000),
-    url(../public/whatsnewbg.jpg);
+    background-image: linear-gradient(#00000000, #00000000), url(../public/whatsnewbg.jpg);
     background-size: cover;
     background-position: left;
     padding-left: 0rem;
@@ -352,8 +345,7 @@
     background-size: cover;
     background-position: right;
     margin-left: 20px;
-    background-image: linear-gradient(#00000000, #00000000),
-    url(../public/servicesbg.jpg);
+    background-image: linear-gradient(#00000000, #00000000), url(../public/servicesbg.jpg);
     background-size: cover;
     background-position: left;
     padding-left: 0rem;
@@ -391,8 +383,7 @@
     align-items: left;
     justify-content: space-between;
     flex-direction: column;
-    background-image: linear-gradient(#00000000, #00000000),
-    url(../public/clientsbg.jpg);
+    background-image: linear-gradient(#00000000, #00000000), url(../public/clientsbg.jpg);
     background-size: cover;
     background-position: left;
     padding-left: 0rem;
@@ -470,8 +461,7 @@
 }
 .header::before {
     content: "";  
-    background-image: linear-gradient(#00000000, #00000000),
-    url(../public/aboutusbg.jpg); 
+    background-image: linear-gradient(#00000000, #00000000),  url(../public/aboutusbg.jpg); 
     position: absolute;
     top: 0px;
     right: 0px;
@@ -554,8 +544,7 @@
 }
 .headerC:before {
     content: "";  
-    background-image: linear-gradient(#00000000, #00000000),
-    url(../public/clientsbg.jpg); 
+    background-image: linear-gradient(#00000000, #00000000), url(../public/clientsbg.jpg); 
     position: absolute;
     top: 0px;
     right: 0px;
@@ -582,8 +571,7 @@
 }
 .headerW:before {
     content: "";  
-    background-image: linear-gradient(#00000000, #00000000),
-    url(../public/whatsnew1.jpg); 
+    background-image: linear-gradient(#00000000, #00000000), url(../public/whatsnew1.jpg); 
     position: absolute;
     top: 0px;
     right: 0px;
@@ -610,8 +598,7 @@
 }
 .headerS::before {
     content: "";  
-    background-image: linear-gradient(#00000000, #00000000),
-    url(../public/servicesbg.jpeg); 
+    background-image: linear-gradient(#00000000, #00000000),    url(../public/servicesbg.jpeg); 
     position: absolute;
     top: 0px;
     right: 0px;
@@ -731,7 +718,7 @@
     flex-direction: row;
     justify-content: space-around;
     padding: 1%;
-    width: 50%
+    width: 50%;
 
 
 }
@@ -817,25 +804,6 @@
 
     .slide p {
         font-size: 12px;
-    }
-
-    .testimonials,
-    .screen {
-        margin-bottom: 20%;
-    }
-
-    .h1 {
-        margin-top: 20%;
-        font-size: 22px;
-    }
-
-    .subtitle {
-        margin-top: 20%;
-    }
-
-
-    .marginBottom {
-        margin-bottom: 4rem;
     }
 }
 
